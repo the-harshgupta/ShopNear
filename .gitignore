@@ -1,0 +1,22 @@
+# Frontend dependencies and generated bundles
+frontend/node_modules/
+frontend/dist/
+
+# Java / Maven build output
+backend/target/
+.m2/
+.npm-cache/
+
+# Local runtime state and user uploads
+backend/data/
+backend/uploads/
+data/
+uploads/
+
+# Local configuration and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
