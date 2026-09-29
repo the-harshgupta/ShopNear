@@ -10,8 +10,8 @@ backend/target/
 # Local runtime state and user uploads
 backend/data/
 backend/uploads/
-data/
-uploads/
+/data/
+/uploads/
 
 # Local configuration and editor files
 .env
