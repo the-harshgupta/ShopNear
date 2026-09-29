@@ -1,4 +1,4 @@
-# NexRetail — Connected Smart Retail Platform
+# ShopNear — Connected Smart Retail Platform
 
 An end-to-end connected physical-digital retail operating platform built for **Customers**, **Retail Shopkeepers / Store Managers**, and **Supermarket Administrators**.
 
